@@ -1,7 +1,6 @@
 # Mks-Robin-Nano-Marlin2.0-Firmware
 
-Marlin 2.0.9.1
-For Robin e3 v1.1
+> Marlin 2.0.9.2 for Robin e3 v1.1
 
 ## Features
 
